@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283979353886",
+    "project_id": "fbpvs-a542d",
+    "storage_bucket": "fbpvs-a542d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283979353886:android:d9eea104ff58d69d78830f",
+        "android_client_info": {
+          "package_name": "com.example.fcm_pvs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYWt6QE80ZTbspXaMdw2ax1GknadybuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
